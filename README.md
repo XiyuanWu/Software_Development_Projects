@@ -1,6 +1,6 @@
 # Simple Projects
 
-These projects are inspired by an online article and start as basic, evolving into more complex applications.
+These projects are inspired by an online article and start as basic.
 
 ## Project 1: Calculator
 
