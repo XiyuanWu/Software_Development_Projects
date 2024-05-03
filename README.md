@@ -8,3 +8,7 @@ This project allows users to calculate basic operations such as addition, subtra
 
 
 ## Inventory Management System
+
+An inventory management system for a grocery store.
+
+COMING SOON! 
