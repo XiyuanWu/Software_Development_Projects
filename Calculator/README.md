@@ -50,5 +50,9 @@ The result is 276.12
 
 ## Run Program
 
-
+Run following command in order:
+```
+$ g++ main.cpp
+$ ./a.out
+```
 
