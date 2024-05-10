@@ -1,14 +1,12 @@
-# Software Development Projects
+# Simple Projects
 
-This repository includes multiple software development projects.
+This repository includes multiple simple projects.
 
 ## Muti-Function Calculator
 
 This project allows users to calculate basic operations such as addition, subtraction, multiplication, division, exponentiation, and square root. It also computes area and volume for common shapes.
 
 
-## Inventory Management System
+## Choose Your Adventure
 
-An inventory management system for a grocery store.
-
-COMING SOON! 
+COMING SOON!
